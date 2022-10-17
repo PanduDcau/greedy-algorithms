@@ -1,1 +1,0 @@
-# greedy-algorithms
