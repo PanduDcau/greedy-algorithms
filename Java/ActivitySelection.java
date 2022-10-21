@@ -1,4 +1,4 @@
-//C++ program for activity selection problem.
+//Java program for activity selection problem.
 //Assuming that the activities are already sorted according to their finish time.
 public class ActivitySelection{
     //Prints the maximum set of activities that can be completed by a single person, one at a time.
